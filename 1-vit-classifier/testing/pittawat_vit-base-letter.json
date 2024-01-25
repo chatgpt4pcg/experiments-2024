@@ -1,0 +1,789 @@
+{
+    "model_name": "pittawat/vit-base-letter",
+    "correct": 59,
+    "total": 130,
+    "accuracy": 0.45384615384615384,
+    "predictions": [
+        {
+            "image_path": "test/R/4.png",
+            "predicted": 4,
+            "label": 17,
+            "true": false
+        },
+        {
+            "image_path": "test/R/2.png",
+            "predicted": 5,
+            "label": 17,
+            "true": false
+        },
+        {
+            "image_path": "test/R/3.png",
+            "predicted": 7,
+            "label": 17,
+            "true": false
+        },
+        {
+            "image_path": "test/R/1.png",
+            "predicted": 7,
+            "label": 17,
+            "true": false
+        },
+        {
+            "image_path": "test/R/0.png",
+            "predicted": 17,
+            "label": 17,
+            "true": true
+        },
+        {
+            "image_path": "test/U/4.png",
+            "predicted": 20,
+            "label": 20,
+            "true": true
+        },
+        {
+            "image_path": "test/U/2.png",
+            "predicted": 20,
+            "label": 20,
+            "true": true
+        },
+        {
+            "image_path": "test/U/3.png",
+            "predicted": 20,
+            "label": 20,
+            "true": true
+        },
+        {
+            "image_path": "test/U/1.png",
+            "predicted": 20,
+            "label": 20,
+            "true": true
+        },
+        {
+            "image_path": "test/U/0.png",
+            "predicted": 20,
+            "label": 20,
+            "true": true
+        },
+        {
+            "image_path": "test/I/4.png",
+            "predicted": 8,
+            "label": 8,
+            "true": true
+        },
+        {
+            "image_path": "test/I/2.png",
+            "predicted": 8,
+            "label": 8,
+            "true": true
+        },
+        {
+            "image_path": "test/I/3.png",
+            "predicted": 8,
+            "label": 8,
+            "true": true
+        },
+        {
+            "image_path": "test/I/1.png",
+            "predicted": 8,
+            "label": 8,
+            "true": true
+        },
+        {
+            "image_path": "test/I/0.png",
+            "predicted": 11,
+            "label": 8,
+            "true": false
+        },
+        {
+            "image_path": "test/N/4.png",
+            "predicted": 7,
+            "label": 13,
+            "true": false
+        },
+        {
+            "image_path": "test/N/2.png",
+            "predicted": 5,
+            "label": 13,
+            "true": false
+        },
+        {
+            "image_path": "test/N/3.png",
+            "predicted": 7,
+            "label": 13,
+            "true": false
+        },
+        {
+            "image_path": "test/N/1.png",
+            "predicted": 7,
+            "label": 13,
+            "true": false
+        },
+        {
+            "image_path": "test/N/0.png",
+            "predicted": 7,
+            "label": 13,
+            "true": false
+        },
+        {
+            "image_path": "test/G/4.png",
+            "predicted": 4,
+            "label": 6,
+            "true": false
+        },
+        {
+            "image_path": "test/G/2.png",
+            "predicted": 6,
+            "label": 6,
+            "true": true
+        },
+        {
+            "image_path": "test/G/3.png",
+            "predicted": 4,
+            "label": 6,
+            "true": false
+        },
+        {
+            "image_path": "test/G/1.png",
+            "predicted": 6,
+            "label": 6,
+            "true": true
+        },
+        {
+            "image_path": "test/G/0.png",
+            "predicted": 4,
+            "label": 6,
+            "true": false
+        },
+        {
+            "image_path": "test/Z/4.png",
+            "predicted": 25,
+            "label": 25,
+            "true": true
+        },
+        {
+            "image_path": "test/Z/2.png",
+            "predicted": 25,
+            "label": 25,
+            "true": true
+        },
+        {
+            "image_path": "test/Z/3.png",
+            "predicted": 8,
+            "label": 25,
+            "true": false
+        },
+        {
+            "image_path": "test/Z/1.png",
+            "predicted": 25,
+            "label": 25,
+            "true": true
+        },
+        {
+            "image_path": "test/Z/0.png",
+            "predicted": 25,
+            "label": 25,
+            "true": true
+        },
+        {
+            "image_path": "test/T/4.png",
+            "predicted": 19,
+            "label": 19,
+            "true": true
+        },
+        {
+            "image_path": "test/T/2.png",
+            "predicted": 19,
+            "label": 19,
+            "true": true
+        },
+        {
+            "image_path": "test/T/3.png",
+            "predicted": 19,
+            "label": 19,
+            "true": true
+        },
+        {
+            "image_path": "test/T/1.png",
+            "predicted": 8,
+            "label": 19,
+            "true": false
+        },
+        {
+            "image_path": "test/T/0.png",
+            "predicted": 19,
+            "label": 19,
+            "true": true
+        },
+        {
+            "image_path": "test/S/4.png",
+            "predicted": 5,
+            "label": 18,
+            "true": false
+        },
+        {
+            "image_path": "test/S/2.png",
+            "predicted": 5,
+            "label": 18,
+            "true": false
+        },
+        {
+            "image_path": "test/S/3.png",
+            "predicted": 8,
+            "label": 18,
+            "true": false
+        },
+        {
+            "image_path": "test/S/1.png",
+            "predicted": 5,
+            "label": 18,
+            "true": false
+        },
+        {
+            "image_path": "test/S/0.png",
+            "predicted": 5,
+            "label": 18,
+            "true": false
+        },
+        {
+            "image_path": "test/A/4.png",
+            "predicted": 7,
+            "label": 0,
+            "true": false
+        },
+        {
+            "image_path": "test/A/2.png",
+            "predicted": 7,
+            "label": 0,
+            "true": false
+        },
+        {
+            "image_path": "test/A/3.png",
+            "predicted": 7,
+            "label": 0,
+            "true": false
+        },
+        {
+            "image_path": "test/A/1.png",
+            "predicted": 7,
+            "label": 0,
+            "true": false
+        },
+        {
+            "image_path": "test/A/0.png",
+            "predicted": 7,
+            "label": 0,
+            "true": false
+        },
+        {
+            "image_path": "test/F/4.png",
+            "predicted": 5,
+            "label": 5,
+            "true": true
+        },
+        {
+            "image_path": "test/F/2.png",
+            "predicted": 5,
+            "label": 5,
+            "true": true
+        },
+        {
+            "image_path": "test/F/3.png",
+            "predicted": 5,
+            "label": 5,
+            "true": true
+        },
+        {
+            "image_path": "test/F/1.png",
+            "predicted": 5,
+            "label": 5,
+            "true": true
+        },
+        {
+            "image_path": "test/F/0.png",
+            "predicted": 5,
+            "label": 5,
+            "true": true
+        },
+        {
+            "image_path": "test/O/4.png",
+            "predicted": 3,
+            "label": 14,
+            "true": false
+        },
+        {
+            "image_path": "test/O/2.png",
+            "predicted": 3,
+            "label": 14,
+            "true": false
+        },
+        {
+            "image_path": "test/O/3.png",
+            "predicted": 3,
+            "label": 14,
+            "true": false
+        },
+        {
+            "image_path": "test/O/1.png",
+            "predicted": 3,
+            "label": 14,
+            "true": false
+        },
+        {
+            "image_path": "test/O/0.png",
+            "predicted": 3,
+            "label": 14,
+            "true": false
+        },
+        {
+            "image_path": "test/H/4.png",
+            "predicted": 7,
+            "label": 7,
+            "true": true
+        },
+        {
+            "image_path": "test/H/2.png",
+            "predicted": 7,
+            "label": 7,
+            "true": true
+        },
+        {
+            "image_path": "test/H/3.png",
+            "predicted": 7,
+            "label": 7,
+            "true": true
+        },
+        {
+            "image_path": "test/H/1.png",
+            "predicted": 7,
+            "label": 7,
+            "true": true
+        },
+        {
+            "image_path": "test/H/0.png",
+            "predicted": 7,
+            "label": 7,
+            "true": true
+        },
+        {
+            "image_path": "test/M/4.png",
+            "predicted": 7,
+            "label": 12,
+            "true": false
+        },
+        {
+            "image_path": "test/M/2.png",
+            "predicted": 12,
+            "label": 12,
+            "true": true
+        },
+        {
+            "image_path": "test/M/3.png",
+            "predicted": 12,
+            "label": 12,
+            "true": true
+        },
+        {
+            "image_path": "test/M/1.png",
+            "predicted": 7,
+            "label": 12,
+            "true": false
+        },
+        {
+            "image_path": "test/M/0.png",
+            "predicted": 7,
+            "label": 12,
+            "true": false
+        },
+        {
+            "image_path": "test/J/4.png",
+            "predicted": 9,
+            "label": 9,
+            "true": true
+        },
+        {
+            "image_path": "test/J/2.png",
+            "predicted": 9,
+            "label": 9,
+            "true": true
+        },
+        {
+            "image_path": "test/J/3.png",
+            "predicted": 9,
+            "label": 9,
+            "true": true
+        },
+        {
+            "image_path": "test/J/1.png",
+            "predicted": 8,
+            "label": 9,
+            "true": false
+        },
+        {
+            "image_path": "test/J/0.png",
+            "predicted": 11,
+            "label": 9,
+            "true": false
+        },
+        {
+            "image_path": "test/C/4.png",
+            "predicted": 8,
+            "label": 2,
+            "true": false
+        },
+        {
+            "image_path": "test/C/2.png",
+            "predicted": 8,
+            "label": 2,
+            "true": false
+        },
+        {
+            "image_path": "test/C/3.png",
+            "predicted": 4,
+            "label": 2,
+            "true": false
+        },
+        {
+            "image_path": "test/C/1.png",
+            "predicted": 8,
+            "label": 2,
+            "true": false
+        },
+        {
+            "image_path": "test/C/0.png",
+            "predicted": 8,
+            "label": 2,
+            "true": false
+        },
+        {
+            "image_path": "test/D/4.png",
+            "predicted": 3,
+            "label": 3,
+            "true": true
+        },
+        {
+            "image_path": "test/D/2.png",
+            "predicted": 3,
+            "label": 3,
+            "true": true
+        },
+        {
+            "image_path": "test/D/3.png",
+            "predicted": 3,
+            "label": 3,
+            "true": true
+        },
+        {
+            "image_path": "test/D/1.png",
+            "predicted": 8,
+            "label": 3,
+            "true": false
+        },
+        {
+            "image_path": "test/D/0.png",
+            "predicted": 3,
+            "label": 3,
+            "true": true
+        },
+        {
+            "image_path": "test/V/4.png",
+            "predicted": 7,
+            "label": 21,
+            "true": false
+        },
+        {
+            "image_path": "test/V/2.png",
+            "predicted": 11,
+            "label": 21,
+            "true": false
+        },
+        {
+            "image_path": "test/V/3.png",
+            "predicted": 22,
+            "label": 21,
+            "true": false
+        },
+        {
+            "image_path": "test/V/1.png",
+            "predicted": 20,
+            "label": 21,
+            "true": false
+        },
+        {
+            "image_path": "test/V/0.png",
+            "predicted": 22,
+            "label": 21,
+            "true": false
+        },
+        {
+            "image_path": "test/Q/4.png",
+            "predicted": 8,
+            "label": 16,
+            "true": false
+        },
+        {
+            "image_path": "test/Q/2.png",
+            "predicted": 8,
+            "label": 16,
+            "true": false
+        },
+        {
+            "image_path": "test/Q/3.png",
+            "predicted": 3,
+            "label": 16,
+            "true": false
+        },
+        {
+            "image_path": "test/Q/1.png",
+            "predicted": 8,
+            "label": 16,
+            "true": false
+        },
+        {
+            "image_path": "test/Q/0.png",
+            "predicted": 8,
+            "label": 16,
+            "true": false
+        },
+        {
+            "image_path": "test/X/4.png",
+            "predicted": 5,
+            "label": 23,
+            "true": false
+        },
+        {
+            "image_path": "test/X/2.png",
+            "predicted": 7,
+            "label": 23,
+            "true": false
+        },
+        {
+            "image_path": "test/X/3.png",
+            "predicted": 7,
+            "label": 23,
+            "true": false
+        },
+        {
+            "image_path": "test/X/1.png",
+            "predicted": 7,
+            "label": 23,
+            "true": false
+        },
+        {
+            "image_path": "test/X/0.png",
+            "predicted": 7,
+            "label": 23,
+            "true": false
+        },
+        {
+            "image_path": "test/E/4.png",
+            "predicted": 4,
+            "label": 4,
+            "true": true
+        },
+        {
+            "image_path": "test/E/2.png",
+            "predicted": 4,
+            "label": 4,
+            "true": true
+        },
+        {
+            "image_path": "test/E/3.png",
+            "predicted": 4,
+            "label": 4,
+            "true": true
+        },
+        {
+            "image_path": "test/E/1.png",
+            "predicted": 4,
+            "label": 4,
+            "true": true
+        },
+        {
+            "image_path": "test/E/0.png",
+            "predicted": 4,
+            "label": 4,
+            "true": true
+        },
+        {
+            "image_path": "test/B/4.png",
+            "predicted": 7,
+            "label": 1,
+            "true": false
+        },
+        {
+            "image_path": "test/B/2.png",
+            "predicted": 1,
+            "label": 1,
+            "true": true
+        },
+        {
+            "image_path": "test/B/3.png",
+            "predicted": 1,
+            "label": 1,
+            "true": true
+        },
+        {
+            "image_path": "test/B/1.png",
+            "predicted": 1,
+            "label": 1,
+            "true": true
+        },
+        {
+            "image_path": "test/B/0.png",
+            "predicted": 1,
+            "label": 1,
+            "true": true
+        },
+        {
+            "image_path": "test/K/4.png",
+            "predicted": 5,
+            "label": 10,
+            "true": false
+        },
+        {
+            "image_path": "test/K/2.png",
+            "predicted": 7,
+            "label": 10,
+            "true": false
+        },
+        {
+            "image_path": "test/K/3.png",
+            "predicted": 7,
+            "label": 10,
+            "true": false
+        },
+        {
+            "image_path": "test/K/1.png",
+            "predicted": 7,
+            "label": 10,
+            "true": false
+        },
+        {
+            "image_path": "test/K/0.png",
+            "predicted": 7,
+            "label": 10,
+            "true": false
+        },
+        {
+            "image_path": "test/L/4.png",
+            "predicted": 11,
+            "label": 11,
+            "true": true
+        },
+        {
+            "image_path": "test/L/2.png",
+            "predicted": 11,
+            "label": 11,
+            "true": true
+        },
+        {
+            "image_path": "test/L/3.png",
+            "predicted": 11,
+            "label": 11,
+            "true": true
+        },
+        {
+            "image_path": "test/L/1.png",
+            "predicted": 8,
+            "label": 11,
+            "true": false
+        },
+        {
+            "image_path": "test/L/0.png",
+            "predicted": 11,
+            "label": 11,
+            "true": true
+        },
+        {
+            "image_path": "test/Y/4.png",
+            "predicted": 7,
+            "label": 24,
+            "true": false
+        },
+        {
+            "image_path": "test/Y/2.png",
+            "predicted": 7,
+            "label": 24,
+            "true": false
+        },
+        {
+            "image_path": "test/Y/3.png",
+            "predicted": 24,
+            "label": 24,
+            "true": true
+        },
+        {
+            "image_path": "test/Y/1.png",
+            "predicted": 7,
+            "label": 24,
+            "true": false
+        },
+        {
+            "image_path": "test/Y/0.png",
+            "predicted": 24,
+            "label": 24,
+            "true": true
+        },
+        {
+            "image_path": "test/P/4.png",
+            "predicted": 15,
+            "label": 15,
+            "true": true
+        },
+        {
+            "image_path": "test/P/2.png",
+            "predicted": 15,
+            "label": 15,
+            "true": true
+        },
+        {
+            "image_path": "test/P/3.png",
+            "predicted": 3,
+            "label": 15,
+            "true": false
+        },
+        {
+            "image_path": "test/P/1.png",
+            "predicted": 15,
+            "label": 15,
+            "true": true
+        },
+        {
+            "image_path": "test/P/0.png",
+            "predicted": 5,
+            "label": 15,
+            "true": false
+        },
+        {
+            "image_path": "test/W/4.png",
+            "predicted": 7,
+            "label": 22,
+            "true": false
+        },
+        {
+            "image_path": "test/W/2.png",
+            "predicted": 22,
+            "label": 22,
+            "true": true
+        },
+        {
+            "image_path": "test/W/3.png",
+            "predicted": 22,
+            "label": 22,
+            "true": true
+        },
+        {
+            "image_path": "test/W/1.png",
+            "predicted": 7,
+            "label": 22,
+            "true": false
+        },
+        {
+            "image_path": "test/W/0.png",
+            "predicted": 7,
+            "label": 22,
+            "true": false
+        }
+    ],
+    "created_at": "2024-01-26 08:46:46.444879"
+}

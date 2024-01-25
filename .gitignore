@@ -1,11 +1,11 @@
-1-vit-classifier/testing/characters
-1-vit-classifier/testing/dereventsolve-xml
+1-vit-classifier/testing/raw_data
 1-vit-classifier/testing/test
 1-vit-classifier/training/training-data-preparation/data
 1-vit-classifier/training/training-data-preparation/generated_data
 2-diversity-effectiveness/diversity-new-vit/new-vit-with-diversity
 2-diversity-effectiveness/diversity-old-vit/old-vit-with-diversity
 3-function-signatures/function-signatures
+3-function-signatures/prompts
 3-function-signatures/responses-gathering-script/.env
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,python,pycharm+all
