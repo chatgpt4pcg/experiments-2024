@@ -7,6 +7,7 @@
 3-function-signatures/function-signatures
 3-function-signatures/prompts
 3-function-signatures/responses-gathering-script/.env
+4-prompt-engineering/experiment_results
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,python,pycharm+all
 
