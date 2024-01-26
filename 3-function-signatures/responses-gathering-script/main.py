@@ -12,6 +12,7 @@ class Original(TrialLoop):
         prompt_template = open(Path("prompts/original.txt"), "r").read()
         response = chat_with_chatgpt(ctx, [{"role": "user", "content": prompt_template
                                      .replace("<OBJECT>", target_character)}])
+        response = response[0]
         return response
 
 
@@ -21,6 +22,7 @@ class FS1(TrialLoop):
         prompt_template = open(Path("prompts/fs1.txt"), "r").read()
         response = chat_with_chatgpt(ctx, [{"role": "user", "content": prompt_template
                                      .replace("<OBJECT>", target_character)}])
+        response = response[0]
         return response
 
 
@@ -30,6 +32,7 @@ class FS2(TrialLoop):
         prompt_template = open(Path("prompts/fs2.txt"), "r").read()
         response = chat_with_chatgpt(ctx, [{"role": "user", "content": prompt_template
                                      .replace("<OBJECT>", target_character)}])
+        response = response[0]
         return response
 
 
@@ -39,6 +42,7 @@ class FS3(TrialLoop):
         prompt_template = open(Path("prompts/fs3.txt"), "r").read()
         response = chat_with_chatgpt(ctx, [{"role": "user", "content": prompt_template
                                      .replace("<OBJECT>", target_character)}])
+        response = response[0]
         return response
 
 
