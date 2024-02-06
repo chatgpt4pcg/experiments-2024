@@ -10,6 +10,7 @@
 3-function-signatures/responses-gathering-script/.idea
 3-function-signatures/responses-gathering-script/.env
 4-prompt-engineering/experiment_results
+4-prompt-engineering/gpt-3.5-turbo-1106-results/experiment_results
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,python,pycharm+all
 
