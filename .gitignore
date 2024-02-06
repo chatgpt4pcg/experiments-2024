@@ -4,8 +4,10 @@
 1-vit-classifier/training/training-data-preparation/generated_data
 2-diversity-effectiveness/diversity-new-vit/new-vit-with-diversity
 2-diversity-effectiveness/diversity-old-vit/old-vit-with-diversity
-3-function-signatures/function-signatures
+3-function-signatures/results
+3-function-signatures/gpt-3.5-turbo-1106-results/function-signatures
 3-function-signatures/prompts
+3-function-signatures/responses-gathering-script/.idea
 3-function-signatures/responses-gathering-script/.env
 4-prompt-engineering/experiment_results
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,pycharm+all
